@@ -2,4 +2,4 @@
 Mahesh Jhandwani -JECRC University -Section H
 Shivam bansal -JECRC UNIVERSITY -Section H
 Yatin Jain -JECRC University -Section D
-Wasim Parsani
+Wasim Parsani -JECRC University 
