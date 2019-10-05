@@ -5,4 +5,4 @@ Yatin Jain -JECRC University -Section D
 Wasim Parsani -JECRC University -Section H
 Gaurav -JECRC University -Section I
 Kushagra Singh -JECRC University 
-Bharat Menaria
+Bharat Menaria -JECRC
